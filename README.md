@@ -7,3 +7,4 @@ Local checks:
     python -m compileall src tests
     python -m ruff check .
     python -m pytest -q
+Testing PR for CI
